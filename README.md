@@ -1,4 +1,4 @@
-# Fardin-Wafi-
+# EPM-Assignment-Fardin-Wafi-
 """
 EPM Assignment for crystal structure
 Group-7 (Batch--57)
